@@ -32,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Locks">
+  <component name="RunManager" selected="Python.MultiProcesses">
     <configuration name="Locks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Multitasking" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -46,6 +46,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Locks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MultiProcesses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Multitasking" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MultiProcesses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,6 +119,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MultiProcesses" />
         <item itemvalue="Python.Locks" />
         <item itemvalue="Python.Threads" />
         <item itemvalue="Python.Multitasking" />
@@ -127,29 +149,40 @@
       <option name="presentableId" value="Default" />
       <updated>1577704906906</updated>
     </task>
+    <task id="LOCAL‎00001" summary="Added another locks example">
+      <created>1577710202693</created>
+      <option name="number" value="LOCAL‎00001" />
+      <option name="presentableId" value="LOCAL‎00001" />
+      <updated>1577710202693</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added another locks example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added another locks example" />
   </component>
   <component name="WindowStateProjectService">
     <state x="457" y="0" key="CommitChangelistDialog2" timestamp="1577710200733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="457" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577710200733" />
-    <state width="1887" height="239" key="GridCell.Tab.0.bottom" timestamp="1577710217590">
+    <state width="1887" height="238" key="GridCell.Tab.0.bottom" timestamp="1577712317414">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1887" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577710217590" />
-    <state width="1887" height="239" key="GridCell.Tab.0.center" timestamp="1577710217590">
+    <state width="1887" height="238" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577712317414" />
+    <state width="1887" height="238" key="GridCell.Tab.0.center" timestamp="1577712317413">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1887" height="239" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577710217590" />
-    <state width="1887" height="239" key="GridCell.Tab.0.left" timestamp="1577710217590">
+    <state width="1887" height="238" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577712317413" />
+    <state width="1887" height="238" key="GridCell.Tab.0.left" timestamp="1577712317413">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1887" height="239" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577710217590" />
-    <state width="1887" height="239" key="GridCell.Tab.0.right" timestamp="1577710217590">
+    <state width="1887" height="238" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577712317413" />
+    <state width="1887" height="238" key="GridCell.Tab.0.right" timestamp="1577712317413">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1887" height="239" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577710217590" />
+    <state width="1887" height="238" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577712317413" />
     <state width="1887" height="299" key="GridCell.Tab.1.bottom" timestamp="1577706830418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
