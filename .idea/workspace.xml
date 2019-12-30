@@ -18,6 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1VhUdMo6ueFL2n7s4wmlSutsb8h" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -129,22 +130,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1887" height="239" key="GridCell.Tab.0.bottom" timestamp="1577710167212">
+    <state x="457" y="0" key="CommitChangelistDialog2" timestamp="1577710200733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1887" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577710167212" />
-    <state width="1887" height="239" key="GridCell.Tab.0.center" timestamp="1577710167211">
+    <state x="457" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577710200733" />
+    <state width="1887" height="239" key="GridCell.Tab.0.bottom" timestamp="1577710217590">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1887" height="239" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577710167211" />
-    <state width="1887" height="239" key="GridCell.Tab.0.left" timestamp="1577710167211">
+    <state width="1887" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577710217590" />
+    <state width="1887" height="239" key="GridCell.Tab.0.center" timestamp="1577710217590">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1887" height="239" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577710167211" />
-    <state width="1887" height="239" key="GridCell.Tab.0.right" timestamp="1577710167212">
+    <state width="1887" height="239" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577710217590" />
+    <state width="1887" height="239" key="GridCell.Tab.0.left" timestamp="1577710217590">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1887" height="239" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577710167212" />
+    <state width="1887" height="239" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577710217590" />
+    <state width="1887" height="239" key="GridCell.Tab.0.right" timestamp="1577710217590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1887" height="239" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577710217590" />
     <state width="1887" height="299" key="GridCell.Tab.1.bottom" timestamp="1577706830418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -165,6 +170,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="506" y="258" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577706997060" />
+    <state x="678" y="395" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577710212154">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="678" y="395" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577710212154" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
